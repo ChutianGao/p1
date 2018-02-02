@@ -1,6 +1,6 @@
 # Project 1
-+ By: *your first and last name*
-+ Production URL: <http://p1.yourdomain.com>
++ By: *Chutian Gao*
++ Production URL: <http://p1.findcharlie.me>
 
 ## Outside resources
 *your list of outside resources go here*
