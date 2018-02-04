@@ -12,8 +12,6 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" type='text/css'>
 
     <link rel="stylesheet" href="css/main.css" type='text/css'>
-    <link rel="shortcut icon" href="http://findcharlie.me/favicon.ico">
-
 </head>
 <body>
 
