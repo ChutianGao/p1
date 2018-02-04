@@ -11,6 +11,9 @@
     <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css' type='text/css'>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" type='text/css'>
 
+    <link rel="stylesheet" href="css/main.css" type='text/css'>
+
+
 </head>
 <body>
 
@@ -18,7 +21,7 @@
 
         <h1>Chutian (Charlie) Gao</h1>
 
-        <img src='images/charlie-cartoon-selfie.png' alt='Chutian (Charlie) Gao' title="Chutian (Charlie) Gao">
+        <img src='images/selfie-1710.jpg' alt='Chutian (Charlie) Gao' title="Chutian (Charlie) Gao" class="img-responsive">
 
         <h2>About Me</h2>
         <p>
