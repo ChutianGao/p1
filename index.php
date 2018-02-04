@@ -21,7 +21,7 @@
 
         <h1>Chutian <span class="text-muted">Charlie</span> Gao</h1>
 
-        <img src='images/selfie-1710.jpg' alt='Chutian (Charlie) Gao' title="Chutian (Charlie) Gao" class="img-responsive">
+        <img src='images/selfie-1710-s.jpg' alt='Chutian (Charlie) Gao' title="Chutian (Charlie) Gao" class="img-responsive">
 
         <h2>About Me</h2>
         <p>
