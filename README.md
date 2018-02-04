@@ -3,8 +3,9 @@
 + Production URL: <http://p1.findcharlie.me>
 
 ## Outside resources
-*your list of outside resources go here*
++ Bootstrap 3.3.7 website: <https://getbootstrap.com/docs/3.3/>
++ W3School PHP mt_rand usage: <https://www.w3schools.com/php/func_math_mt_rand.asp>
 
 
 ## Notes for instructor
-*any notes for me to refer to while grading; if none, omit this section*
+I was trying to add a favicon for my site but I failed. Couldn't find a solution so that I simply removed it. I think it's related to virtual host.
