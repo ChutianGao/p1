@@ -19,7 +19,7 @@
 
     <div class="container">
 
-        <h1>Chutian (Charlie) Gao</h1>
+        <h1>Chutian <span class="text-muted">Charlie</span> Gao</h1>
 
         <img src='images/selfie-1710.jpg' alt='Chutian (Charlie) Gao' title="Chutian (Charlie) Gao" class="img-responsive">
 
