@@ -30,14 +30,52 @@
         </p>
 
         <h2>Random Quote</h2>
+        
+        <?php
+            // Define Quotes Array
+            $quote_pool = array(
+                array(
+                    "quote" => "Don't cry because it's over, smile because it happened.",
+                    "footer" => "Dr. Seuss"
+                ),
+                array(
+                    "quote" => "So many books, so little time.",
+                    "footer" => "Frank Zappa"
+                ),
+                array(
+                    "quote" => "Be yourself; everyone else is already taken.",
+                    "footer" => "Oscar Wilde"
+                ),
+                array(
+                    "quote" => "You only live once, but if you do it right, once is enough.",
+                    "footer" => "Mae West"
+                ),
+                array(
+                    "quote" => "Be the change that you wish to see in the world.",
+                    "footer" => "Mahatma Gandhi"
+                )
+            );
+            // Generate Random Quote
+            $selected_number = mt_rand(0, sizeof($quote_pool) - 1 );
+            $selected_quote = $quote_pool[$selected_number]['quote'];
+            $selected_footer = $quote_pool[$selected_number]['footer'];
+        ?>
         <blockquote>
-            <?php echo 'So, why not do it';?>
+            <?php 
+                // Print Quote Body
+                echo $selected_quote;
+            ?>
+            <footer>
+                <?php 
+                    // Print Quote Footer
+                    echo $selected_footer;
+                ?>
+            </footer>
         </blockquote>
 
     </div>
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
 </body>
 </html>
